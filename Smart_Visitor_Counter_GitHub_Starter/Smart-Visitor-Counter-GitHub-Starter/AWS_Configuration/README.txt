@@ -1,0 +1,1 @@
+Document only AWS services actually used. Add verified configuration notes/screenshots. Never upload credentials or secret keys.
